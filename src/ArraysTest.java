@@ -21,9 +21,13 @@ public class ArraysTest {
                 {
                         new String[]{"here", "is", "some", "text", ".", "text"},
                         new String[]{"some", "text", "above", "."},
-                        new String[]{"some", "text", "."}
+                        new String[]{"some", "text", "."},
+                },
+                {
+                        new String[]{"metal", "is", "pretty", "cool"},
+                        new String[]{"indie", "is", "really", "good"},
+                        new String[]{"ambient", "is", "not", "so", "cool"}
                 }
-                // TODO add 2 more test data here
         };
     }
 
