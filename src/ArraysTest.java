@@ -24,9 +24,9 @@ public class ArraysTest {
                         new String[]{"some", "text", "."},
                 },
                 {
-                        new String[]{"metal", "is", "pretty", "cool"},
-                        new String[]{"indie", "is", "really", "good"},
-                        new String[]{"ambient", "is", "not", "so", "cool"}
+                        new String[]{"music", "test", "kiels", "jump", "wolf", "NBA", "note", "loud", "smell"},
+                        new String[]{"NBA", "loud", "test", "jump", "note", "great"},
+                        new String[]{"test", "jump", "NBA", "note", "loud"}
                 }
         };
     }
